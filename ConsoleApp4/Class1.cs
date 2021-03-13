@@ -11,5 +11,10 @@ namespace ConsoleApp4
         {
             this.a = 0;
         }
+
+        public static void method()
+        {
+            
+        }
     }
 }

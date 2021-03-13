@@ -11,6 +11,9 @@ namespace ConsoleApp4
             Console.WriteLine("dhsajkdhkaj");
             Console.WriteLine("dhsajkdhkaj");
 
+            Console.WriteLine("dhsajkdhkaj");
+            Console.WriteLine("dhsajkdhkaj");
+
         }
     }
 }
