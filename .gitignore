@@ -2,5 +2,3 @@
 ConsoleApp4/bin
 ConsoleApp4/obj
 *.exe
-*.txt
-!file1.txt
