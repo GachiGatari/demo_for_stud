@@ -16,5 +16,10 @@ namespace ConsoleApp4
         {
             
         }
+
+        public static void method2()
+        {
+
+        }
     }
 }
